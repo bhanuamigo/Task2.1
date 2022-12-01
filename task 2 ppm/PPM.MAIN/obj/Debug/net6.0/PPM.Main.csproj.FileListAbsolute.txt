@@ -1,0 +1,15 @@
+C:\Users\BJuluri\Csharp\task 2 ppm\PPM.Main\obj\Debug\net6.0\PPM.Main.csproj.AssemblyReference.cache
+C:\Users\BJuluri\Csharp\task 2 ppm\PPM.Main\obj\Debug\net6.0\PPM.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BJuluri\Csharp\task 2 ppm\PPM.Main\obj\Debug\net6.0\PPM.Main.AssemblyInfoInputs.cache
+C:\Users\BJuluri\Csharp\task 2 ppm\PPM.Main\obj\Debug\net6.0\PPM.Main.AssemblyInfo.cs
+C:\Users\BJuluri\Csharp\task 2 ppm\PPM.Main\obj\Debug\net6.0\PPM.Main.csproj.CoreCompileInputs.cache
+C:\Users\BJuluri\Csharp\task 2 ppm\PPM.Main\bin\Debug\net6.0\PPM.Main.exe
+C:\Users\BJuluri\Csharp\task 2 ppm\PPM.Main\bin\Debug\net6.0\PPM.Main.deps.json
+C:\Users\BJuluri\Csharp\task 2 ppm\PPM.Main\bin\Debug\net6.0\PPM.Main.runtimeconfig.json
+C:\Users\BJuluri\Csharp\task 2 ppm\PPM.Main\bin\Debug\net6.0\PPM.Main.dll
+C:\Users\BJuluri\Csharp\task 2 ppm\PPM.Main\bin\Debug\net6.0\PPM.Main.pdb
+C:\Users\BJuluri\Csharp\task 2 ppm\PPM.Main\obj\Debug\net6.0\PPM.Main.dll
+C:\Users\BJuluri\Csharp\task 2 ppm\PPM.Main\obj\Debug\net6.0\refint\PPM.Main.dll
+C:\Users\BJuluri\Csharp\task 2 ppm\PPM.Main\obj\Debug\net6.0\PPM.Main.pdb
+C:\Users\BJuluri\Csharp\task 2 ppm\PPM.Main\obj\Debug\net6.0\PPM.Main.genruntimeconfig.cache
+C:\Users\BJuluri\Csharp\task 2 ppm\PPM.Main\obj\Debug\net6.0\ref\PPM.Main.dll
